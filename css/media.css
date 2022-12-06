@@ -1,0 +1,1559 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+  #header .header--title input {
+    margin-left: 570px;
+  }
+  #header .header--nav {
+    display: none;
+  }
+  #header .header--icon {
+    display: none;
+  }
+  #hero .hero--text h1 {
+    font-size: 90px;
+  }
+  #hero .hero--and h1 {
+    font-size: 90px;
+  }
+  #hero .hero--nft h1 {
+    font-size: 90px;
+  }
+  #nft .nft--img__fg {
+    width: 380px;
+  }
+  #nft .nft--img__fg--img {
+    left: -69px;
+  }
+  #nft .nft--right {
+    right: -15px;
+  }
+  #icons .icons h1 {
+    padding-right: 43px;
+    font-size: 30px;
+  }
+  #sell .sell--img__bg {
+    left: 40px;
+  }
+  #search .search--btn__title--h3 h3 {
+    padding-left: 13px;
+  }
+}
+@media (max-width: 1024px) {
+  #header .header--title input {
+    margin-left: 424px;
+  }
+  #hero .hero--text h1 {
+    font-size: 80px;
+  }
+  #hero .hero--and h1 {
+    font-size: 80px;
+  }
+  #hero .hero--nft h1 {
+    font-size: 80px;
+  }
+  #nft .nft {
+    flex-direction: column;
+  }
+  #nft .nft--right {
+    padding-top: 100px;
+  }
+  #nft .nft--img {
+    padding: 80px 0;
+  }
+  #nft .nft--right__fgs {
+    top: -18px;
+    right: 18px;
+  }
+  #icons .icons--top h1 {
+    padding-right: 24px;
+    font-size: 26px;
+  }
+  #icons .icons--top__title {
+    top: 1px;
+  }
+  #icons .icons--btn img {
+    margin-right: 20px;
+  }
+  #cards .cards--title {
+    padding-bottom: 40px;
+  }
+  #bored .bored--title__fg {
+    right: 392px;
+  }
+  #sell .sell--img img {
+    width: 90%;
+  }
+  #search .search--btn {
+    flex-direction: column;
+  }
+  #search .search--btn__text h1 {
+    font-size: 60px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 46px;
+  }
+  #search .search--btn__text--fg {
+    bottom: 21px;
+    right: 15px;
+    width: 40.78px;
+    height: 40.37px;
+  }
+  #footer .footer--text {
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  #header .header input {
+    margin-left: 400px;
+  }
+  #start .start--set h1 {
+    font-size: 26px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 42px;
+  }
+}
+@media (max-width: 768px) {
+  #header .header input {
+    width: 261px;
+    margin-left: 255px;
+  }
+  #hero .hero--title h3 {
+    font-size: 16px;
+  }
+  #hero .hero--text h1 {
+    font-size: 50px;
+  }
+  #hero .hero--text img {
+    width: 30%;
+  }
+  #hero .hero--and h1 {
+    font-size: 50px;
+  }
+  #hero .hero--and img {
+    width: 30%;
+  }
+  #hero .hero--nft h1 {
+    font-size: 50px;
+  }
+  #hero .hero--nft img {
+    width: 30%;
+  }
+  #icons .icons h1 {
+    padding-top: 10px;
+    font-size: 20px;
+  }
+  #icons .icons--top {
+    flex-direction: column;
+  }
+  #icons .icons--btn {
+    flex-direction: column;
+  }
+  #icons .icons--btn img {
+    margin: 20px 0;
+  }
+  #items .items--top select {
+    width: 209px;
+    height: 52px;
+    border: 1px solid #FFFFFF;
+    border-radius: 14px;
+    background: #15141A;
+    outline: none;
+    font-weight: 200;
+    font-size: 18px;
+  }
+  #items .items--top__btn {
+    width: 153px;
+    height: 53px;
+  }
+  #items .items--top__btn--text {
+    padding-top: 5px;
+  }
+  #items .items--top__btn--text h1 {
+    font-size: 24px;
+  }
+  #bored .bored--blocks {
+    justify-content: center;
+  }
+  #sell .sell--title__text h2 {
+    font-size: 28px;
+  }
+  #sell .sell--title__text h3 {
+    font-size: 20px;
+  }
+  #sell .sell--img img {
+    width: 100%;
+  }
+  #sell .sell--img__bg {
+    left: -15px;
+    top: -108px;
+  }
+  #start .start--title h1 {
+    font-size: 32px;
+  }
+  #start .start--set h1 {
+    font-size: 24px;
+  }
+  #start .start--set p {
+    font-size: 12px;
+    line-height: 19px;
+    color: white;
+    width: 371px;
+  }
+  #footer .footer h5 {
+    font-size: 14px;
+  }
+  #footer .footer--nav {
+    padding-right: 0;
+  }
+}
+@media (max-width: 576px) {
+  #header .header input {
+    width: 187px;
+    margin-left: 159px;
+  }
+  #hero .hero--title h3 {
+    font-size: 13px;
+  }
+  #hero .hero--text h1 {
+    font-size: 33px;
+  }
+  #hero .hero--text img {
+    width: 30%;
+  }
+  #hero .hero--and h1 {
+    font-size: 33px;
+  }
+  #hero .hero--and img {
+    width: 30%;
+  }
+  #hero .hero--nft h1 {
+    font-size: 33px;
+  }
+  #hero .hero--nft img {
+    width: 30%;
+  }
+  #hero .hero--nft__bg {
+    right: -162px;
+    top: 68px;
+    width: 192px;
+    height: 56px;
+  }
+  #nft .nft--img__fg {
+    width: 426px;
+  }
+  #nft .nft--img__fg--img {
+    left: -24px;
+  }
+  #icons .icons--top h1 {
+    padding-top: 13px;
+  }
+  #cards .cards--title h3 {
+    font-size: 16px;
+  }
+  #cards .cards--title h1 {
+    font-size: 26px;
+  }
+  #cards .cards--title h2 {
+    font-size: 25px;
+  }
+  #items--figurs__fg3 {
+    bottom: 30px;
+  }
+  #items .items--title h3 {
+    font-size: 16px;
+  }
+  #items .items--title__hot {
+    right: 34px;
+  }
+  #items .items--top select {
+    width: 189px;
+    height: 45px;
+    font-size: 16px;
+  }
+  #items .items--top__btn {
+    width: 129px;
+    height: 44px;
+  }
+  #items .items--top__btn h1 {
+    font-size: 18px;
+  }
+  #items .items--top__btn a {
+    font-size: 14px;
+  }
+  #items .items--blocks {
+    justify-content: center;
+  }
+  #bored .bored--title h3 {
+    font-size: 16px;
+  }
+  #bored .bored--title h1 {
+    font-size: 32px;
+  }
+  #bored .bored--title select {
+    font-size: 34px;
+  }
+  #sell .sell--title__figure {
+    bottom: 48px;
+    width: 135px;
+  }
+  #sell .sell--title__fg {
+    right: 39px;
+    top: 52px;
+  }
+  #sell .sell--title__text {
+    padding-right: 90px;
+  }
+  #sell .sell--title__text--bg h3 {
+    font-size: 16px;
+  }
+  #sell .sell--title__text h2 {
+    font-size: 25px;
+  }
+  #sell .sell--img__bg {
+    left: -3px;
+    top: -28px;
+  }
+  #sell .sell--img__bg img {
+    width: 80%;
+  }
+  #sell .sell--img__bg--h1 {
+    left: 64px;
+    bottom: 63px;
+  }
+  #sell .sell--img__bg--h1 h1 {
+    font-size: 30px;
+  }
+  #start .start--title h1 {
+    font-size: 26px;
+  }
+  #start .start--title__text h3 {
+    font-size: 20px;
+  }
+  #start .start--set p {
+    font-size: 10px;
+    line-height: 19px;
+    color: white;
+    width: 195px;
+  }
+  #start .start--set h1 {
+    font-size: 22px;
+  }
+  #search .search--top__btn--fg {
+    right: 20px;
+  }
+  #search .search--top__right {
+    right: 21px;
+  }
+  #search .search--btn__text h1 {
+    font-size: 50px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 33px;
+  }
+  #search .search--btn__text--fg {
+    bottom: 14px;
+    right: 10px;
+    width: 34.78px;
+    height: 34.37px;
+  }
+  #search .search--btn__title h3 {
+    padding-left: 46px;
+    font-size: 25px;
+  }
+  #search .search--btn__title--text h1 {
+    font-size: 26px;
+  }
+  #search .search--btn__h1 h1 {
+    padding-bottom: 27px;
+    padding-top: 19px;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+  }
+  #search .search--btn__h1--input input {
+    font-size: 14px;
+    color: white;
+    width: 196px;
+    height: 41px;
+  }
+  #search .search--btn__h1--input button {
+    width: 49px;
+    padding-top: 10px;
+    height: 46px;
+  }
+  #search .search--btn__h1--input button a {
+    font-size: 30px;
+  }
+  #footer .footer {
+    justify-content: center;
+  }
+  #footer .footer h5 {
+    display: none;
+  }
+}
+@media (max-width: 451px) {
+  #header .header input {
+    width: 161px;
+    margin-left: 64px;
+    height: 38px;
+  }
+  #header .header a {
+    right: 32px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+  }
+  #hero .hero--title h3 {
+    font-size: 10px;
+  }
+  #hero .hero--text__star {
+    left: -5px;
+    bottom: 28px;
+  }
+  #hero .hero--text h1 {
+    font-size: 24px;
+  }
+  #hero .hero--text img {
+    width: 30%;
+  }
+  #hero .hero--and h1 {
+    font-size: 24px;
+  }
+  #hero .hero--and img {
+    width: 30%;
+  }
+  #hero .hero--nft h1 {
+    font-size: 24px;
+  }
+  #hero .hero--nft img {
+    width: 30%;
+  }
+  #nft .nft--work__btn--bg {
+    left: -43px;
+    bottom: -152px;
+  }
+  #nft .nft--work__top--bg {
+    width: 70px;
+    height: 70px;
+  }
+  #nft .nft--work__top--bg__star {
+    width: 36px;
+    height: 36px;
+  }
+  #nft .nft--work__top--title h5 {
+    padding-left: 35px;
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h4 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h3 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title p {
+    padding-left: 124px;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  #nft .nft--img__fg {
+    width: 262px;
+    height: 300px;
+  }
+  #nft .nft--img__fg--img img {
+    width: 90%;
+  }
+  #cards .cards--blocks__glav {
+    outline: none;
+    border: none;
+    width: 440px;
+    height: 415px;
+  }
+  #cards .cards--blocks__glav--card__title {
+    left: 82px;
+    bottom: 35px;
+  }
+  #cards .cards--blocks__glav--card__title h1 {
+    font-size: 25px;
+  }
+  #cards .cards--blocks__glav--card__title p {
+    font-size: 13px;
+  }
+  #cards .cards--blocks__glav--card__title button {
+    margin-top: 20px;
+    font-size: 13px;
+    width: 62px;
+    height: 33px;
+  }
+  #cards .cards--blocks__glav--card img {
+    width: 80%;
+  }
+  #items h1 {
+    font-size: 26px;
+  }
+  #items .items--figurs__fg3 {
+    left: 33px;
+    bottom: 27px;
+  }
+  #items .items--title h3 {
+    font-size: 14px;
+  }
+  #items .items--top select {
+    width: 161px;
+    height: 39px;
+    font-size: 13px;
+  }
+  #items .items--top__btn {
+    width: 105px;
+    height: 36px;
+  }
+  #items .items--top__btn h1 {
+    font-size: 15px;
+  }
+  #items .items--top__btn a {
+    font-size: 11px;
+  }
+  #bored .bored--blocks__card--text h2 {
+    font-size: 14px;
+  }
+  #bored .bored--blocks__card--text h3 {
+    font-size: 13px;
+  }
+  #sell .sell--title__figure {
+    bottom: 48px;
+    width: 135px;
+  }
+  #sell .sell--title__fg {
+    right: 15px;
+    top: 71px;
+  }
+  #sell .sell--title__text {
+    padding-right: 50px;
+  }
+  #sell .sell--title__text--bg h3 {
+    font-size: 13px;
+  }
+  #sell .sell--title__text h2 {
+    font-size: 22px;
+  }
+  #sell .sell--img__bg {
+    left: -3px;
+    top: -1px;
+  }
+  #sell .sell--img__bg img {
+    width: 80%;
+  }
+  #sell .sell--img__bg--h1 {
+    left: 64px;
+    bottom: 63px;
+  }
+  #sell .sell--img__bg--h1 h1 {
+    font-size: 24px;
+  }
+  #start .start--title h1 {
+    font-size: 21px;
+  }
+  #start .start--title__text h3 {
+    font-size: 16px;
+  }
+  #start .start--set {
+    flex-direction: column;
+  }
+  #start .start--set h3 {
+    font-size: 16px;
+  }
+  #start .start--set p {
+    font-size: 10px;
+    line-height: 19px;
+    color: white;
+    width: 389px;
+  }
+  #start .start--set h1 {
+    padding: 10px 0;
+    font-size: 18px;
+  }
+  #search .search--top__btn button {
+    width: 145px;
+    height: 53px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #search .search--top__btn--fg {
+    right: 20px;
+  }
+  #search .search--top__right {
+    right: 21px;
+  }
+  #search .search--btn__text h1 {
+    font-size: 50px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 33px;
+  }
+  #search .search--btn__text--fg {
+    bottom: 14px;
+    right: 10px;
+    width: 34.78px;
+    height: 34.37px;
+  }
+  #search .search--btn__title h3 {
+    padding-left: 46px;
+    font-size: 25px;
+  }
+  #search .search--btn__title--text h1 {
+    font-size: 26px;
+  }
+  #search .search--btn__h1 h1 {
+    padding-bottom: 27px;
+    padding-top: 19px;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+  }
+  #search .search--btn__h1--input input {
+    font-size: 14px;
+    color: white;
+    width: 196px;
+    height: 41px;
+  }
+  #search .search--btn__h1--input button {
+    width: 49px;
+    padding-top: 10px;
+    height: 46px;
+  }
+  #search .search--btn__h1--input button a {
+    font-size: 30px;
+  }
+  #footer .footer {
+    justify-content: center;
+  }
+  #footer .footer--nav a {
+    margin: 0 8px;
+    padding: 5px 9px;
+    color: white;
+    width: 90px;
+    height: 72px;
+    background: #767676;
+    font-size: 24px;
+  }
+  #footer .footer h5 {
+    display: none;
+  }
+}
+@media (max-width: 400px) {
+  #header .header input {
+    width: 151px;
+    margin-left: 28px;
+    height: 38px;
+  }
+  #header .header a {
+    right: 32px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+  }
+  #hero .hero--title h3 {
+    font-size: 10px;
+  }
+  #hero .hero--text__stars {
+    bottom: 22px;
+    left: -13px;
+  }
+  #hero .hero--text h1 {
+    font-size: 20px;
+  }
+  #hero .hero--text img {
+    width: 30%;
+  }
+  #hero .hero--and__crug {
+    margin-right: 26px;
+    margin-top: 85px;
+  }
+  #hero .hero--and h1 {
+    font-size: 20px;
+  }
+  #hero .hero--and img {
+    width: 30%;
+  }
+  #hero .hero--nft__bg {
+    width: 127px;
+    top: -56px;
+    right: -151px;
+  }
+  #hero .hero--nft h1 {
+    font-size: 20px;
+  }
+  #hero .hero--nft img {
+    width: 30%;
+  }
+  #nft .nft--work {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #nft .nft--work__top--bg {
+    width: 70px;
+    height: 70px;
+  }
+  #nft .nft--work__top--bg__star {
+    width: 36px;
+    height: 36px;
+  }
+  #nft .nft--work__top--title h5 {
+    padding-left: 35px;
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h4 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h3 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title p {
+    padding-left: 124px;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  #nft .nft--img__fg {
+    width: 262px;
+    height: 300px;
+  }
+  #nft .nft--img__fg--img img {
+    width: 90%;
+  }
+  #cards .cards--blocks__glav {
+    outline: none;
+    border: none;
+    width: 440px;
+    height: 415px;
+  }
+  #cards .cards--blocks__glav--card__title {
+    left: 75px;
+    bottom: 35px;
+  }
+  #cards .cards--blocks__glav--card__title h1 {
+    font-size: 22px;
+  }
+  #cards .cards--blocks__glav--card__title p {
+    font-size: 11px;
+  }
+  #cards .cards--blocks__glav--card__title button {
+    margin-top: 20px;
+    font-size: 12px;
+    width: 55px;
+    height: 28px;
+  }
+  #cards .cards--blocks__glav--card img {
+    width: 80%;
+  }
+  #items h1 {
+    font-size: 22px;
+  }
+  #items .items--figurs__fg3 {
+    left: 16px;
+  }
+  #items .items--title {
+    padding-top: 40px;
+  }
+  #items .items--title h3 {
+    font-size: 12px;
+  }
+  #items .items--top select {
+    width: 145px;
+    height: 38px;
+    font-size: 11px;
+  }
+  #items .items--top__btn {
+    width: 105px;
+    height: 36px;
+  }
+  #items .items--top__btn h1 {
+    font-size: 15px;
+  }
+  #items .items--top__btn a {
+    font-size: 11px;
+  }
+  #bored .bored--blocks__card--text h2 {
+    font-size: 12px;
+  }
+  #bored .bored--blocks__card--text h3 {
+    font-size: 11px;
+  }
+  #sell .sell--top button {
+    width: 173px;
+    height: 54px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #sell .sell--title {
+    flex-direction: column;
+  }
+  #sell .sell--title__figure {
+    bottom: 48px;
+    width: 135px;
+  }
+  #sell .sell--title__fg {
+    right: 15px;
+    top: 71px;
+  }
+  #sell .sell--title__text {
+    padding-right: 10px;
+  }
+  #sell .sell--title__text--bg h3 {
+    font-size: 13px;
+  }
+  #sell .sell--title__text h2 {
+    font-size: 20px;
+  }
+  #sell .sell--img {
+    padding-top: 20px;
+  }
+  #sell .sell--img__bg {
+    left: -3px;
+    top: -1px;
+  }
+  #sell .sell--img__bg img {
+    width: 80%;
+  }
+  #sell .sell--img__bg--h1 {
+    left: 70px;
+    bottom: 30px;
+  }
+  #sell .sell--img__bg--h1 h1 {
+    font-size: 20px;
+  }
+  #start .start--title h1 {
+    font-size: 21px;
+  }
+  #start .start--title__text h3 {
+    font-size: 16px;
+  }
+  #start .start--set {
+    flex-direction: column;
+  }
+  #start .start--set h3 {
+    font-size: 16px;
+  }
+  #start .start--set p {
+    font-size: 10px;
+    line-height: 19px;
+    color: white;
+    width: 320px;
+  }
+  #start .start--set h1 {
+    padding: 10px 0;
+    font-size: 18px;
+  }
+  #search .search--top__btn button {
+    width: 145px;
+    height: 53px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #search .search--top__btn--fg {
+    right: 20px;
+  }
+  #search .search--top__right {
+    right: 21px;
+  }
+  #search .search--btn__text h1 {
+    font-size: 50px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 33px;
+  }
+  #search .search--btn__text--fg {
+    bottom: 14px;
+    right: 10px;
+    width: 34.78px;
+    height: 34.37px;
+  }
+  #search .search--btn__title h3 {
+    padding-left: 41px;
+    font-size: 22px;
+  }
+  #search .search--btn__title--text h1 {
+    font-size: 23px;
+  }
+  #search .search--btn__h1 h1 {
+    padding-bottom: 27px;
+    padding-top: 19px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+  }
+  #search .search--btn__h1--input input {
+    font-size: 12px;
+    color: white;
+    width: 138px;
+    height: 37px;
+  }
+  #search .search--btn__h1--input button {
+    width: 47px;
+    padding-top: 8px;
+    height: 39px;
+  }
+  #search .search--btn__h1--input button a {
+    font-size: 26px;
+  }
+  #footer .footer {
+    justify-content: center;
+  }
+  #footer .footer--nav a {
+    margin: 0 8px;
+    padding: 5px 9px;
+    color: white;
+    width: 90px;
+    height: 72px;
+    background: #767676;
+    font-size: 24px;
+  }
+  #footer .footer h5 {
+    display: none;
+  }
+}
+@media (max-width: 376px) {
+  #header .header h1 {
+    font-size: 28px;
+  }
+  #header .header h2 {
+    font-size: 20px;
+  }
+  #header .header input {
+    width: 118px;
+    margin-left: 29px;
+    font-size: 13px;
+    height: 39px;
+  }
+  #header .header a {
+    right: 32px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+  }
+  #hero .hero--title h3 {
+    font-size: 9px;
+  }
+  #hero .hero--text h1 {
+    font-size: 18px;
+  }
+  #hero .hero--text img {
+    width: 30%;
+  }
+  #hero .hero--and__crug {
+    margin-right: 26px;
+    margin-top: 85px;
+  }
+  #hero .hero--and h1 {
+    font-size: 20px;
+  }
+  #hero .hero--and img {
+    width: 30%;
+  }
+  #hero .hero--nft h1 {
+    font-size: 20px;
+  }
+  #hero .hero--nft img {
+    width: 30%;
+  }
+  #hero .hero--nft__bg {
+    width: 124px;
+    height: 43px;
+  }
+  #nft .nft--work {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #nft .nft--work__btn--bg {
+    left: -25px;
+    bottom: -188px;
+    clip-path: polygon(50% 0%, 61% 35%, 100% 46%, 62% 61%, 50% 100%, 39% 61%, 1% 48%, 39% 35%);
+    width: 34px;
+    height: 34px;
+  }
+  #nft .nft--work__top--bg {
+    width: 70px;
+    height: 70px;
+  }
+  #nft .nft--work__top--bg__star {
+    width: 36px;
+    height: 36px;
+  }
+  #nft .nft--work__top--title h5 {
+    padding-left: 35px;
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h4 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h3 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title p {
+    padding-left: 124px;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  #nft .nft--img__fg {
+    width: 262px;
+    height: 300px;
+  }
+  #nft .nft--img__fg--img img {
+    width: 90%;
+  }
+  #cards .cards--blocks__glav {
+    outline: none;
+    border: none;
+    width: 440px;
+    height: 415px;
+  }
+  #cards .cards--blocks__glav--card__title {
+    left: 65px;
+    bottom: 35px;
+  }
+  #cards .cards--blocks__glav--card__title h1 {
+    font-size: 22px;
+  }
+  #cards .cards--blocks__glav--card__title p {
+    font-size: 11px;
+  }
+  #cards .cards--blocks__glav--card__title button {
+    margin-top: 20px;
+    font-size: 12px;
+    width: 55px;
+    height: 28px;
+  }
+  #cards .cards--blocks__glav--card img {
+    width: 80%;
+  }
+  #bored .bored--title h3 {
+    font-size: 13px;
+  }
+  #bored .bored--title h1 {
+    font-size: 27px;
+  }
+  #bored .bored--title select {
+    font-size: 27px;
+  }
+  #bored .bored--blocks__card--number {
+    padding-left: 24px;
+  }
+  #sell .sell--top button {
+    width: 173px;
+    height: 54px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #sell .sell--title {
+    flex-direction: column;
+  }
+  #sell .sell--title__figure {
+    bottom: 48px;
+    width: 135px;
+  }
+  #sell .sell--title__fg {
+    right: 15px;
+    top: 71px;
+  }
+  #sell .sell--title__text {
+    padding-right: 10px;
+  }
+  #sell .sell--title__text--bg h3 {
+    font-size: 13px;
+  }
+  #sell .sell--title__text h2 {
+    font-size: 20px;
+  }
+  #sell .sell--img {
+    padding-top: 20px;
+  }
+  #sell .sell--img__bg {
+    left: -3px;
+    top: 4px;
+  }
+  #sell .sell--img__bg img {
+    width: 80%;
+  }
+  #sell .sell--img__bg--h1 {
+    left: 70px;
+    bottom: 30px;
+  }
+  #sell .sell--img__bg--h1 h1 {
+    font-size: 20px;
+  }
+  #start .start--title h1 {
+    font-size: 21px;
+  }
+  #start .start--title__text h3 {
+    font-size: 16px;
+  }
+  #start .start--set {
+    flex-direction: column;
+  }
+  #start .start--set h3 {
+    font-size: 16px;
+  }
+  #start .start--set p {
+    font-size: 9px;
+    line-height: 19px;
+    color: white;
+    width: 334px;
+  }
+  #start .start--set h1 {
+    padding: 10px 0;
+    font-size: 18px;
+  }
+  #search .search--top__btn button {
+    width: 145px;
+    height: 53px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #search .search--top__btn--fg {
+    right: 20px;
+  }
+  #search .search--top__right {
+    right: 25px;
+    width: 120px;
+  }
+  #search .search--btn__text h1 {
+    font-size: 50px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 33px;
+  }
+  #search .search--btn__text--fg {
+    bottom: 14px;
+    right: 10px;
+    width: 34.78px;
+    height: 34.37px;
+  }
+  #search .search--btn__title h3 {
+    padding-left: 41px;
+    font-size: 20px;
+  }
+  #search .search--btn__title--text h1 {
+    font-size: 23px;
+  }
+  #search .search--btn__h1 h1 {
+    padding-bottom: 27px;
+    padding-top: 19px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+  }
+  #search .search--btn__h1--input input {
+    font-size: 12px;
+    color: white;
+    width: 138px;
+    height: 37px;
+  }
+  #search .search--btn__h1--input button {
+    width: 47px;
+    padding-top: 8px;
+    height: 39px;
+  }
+  #search .search--btn__h1--input button a {
+    font-size: 26px;
+  }
+  #footer .footer {
+    justify-content: center;
+  }
+  #footer .footer--nav a {
+    margin: 0 8px;
+    padding: 5px 9px;
+    color: white;
+    width: 90px;
+    height: 72px;
+    background: #767676;
+    font-size: 24px;
+  }
+  #footer .footer h5 {
+    display: none;
+  }
+}
+@media (max-width: 320px) {
+  #header .header h1 {
+    font-size: 28px;
+  }
+  #header .header h2 {
+    font-size: 20px;
+  }
+  #header .header input {
+    width: 100px;
+    margin-left: 22px;
+    font-size: 11px;
+    height: 39px;
+  }
+  #header .header a {
+    right: 32px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+  }
+  #hero .hero--title h3 {
+    font-size: 9px;
+  }
+  #hero .hero--text__star {
+    left: 5px;
+    bottom: 20px;
+    clip-path: polygon(50% 0%, 61% 35%, 100% 46%, 62% 61%, 50% 100%, 39% 61%, 1% 48%, 39% 35%);
+    width: 25px;
+    height: 25px;
+  }
+  #hero .hero--text h1 {
+    font-size: 18px;
+  }
+  #hero .hero--text img {
+    width: 30%;
+  }
+  #hero .hero--text__stars {
+    bottom: 18px;
+    left: 4px;
+  }
+  #hero .hero--and__crug {
+    margin-right: 0;
+    margin-top: 85px;
+  }
+  #hero .hero--and h1 {
+    font-size: 20px;
+  }
+  #hero .hero--and img {
+    width: 30%;
+  }
+  #hero .hero--nft h1 {
+    font-size: 20px;
+  }
+  #hero .hero--nft img {
+    width: 30%;
+  }
+  #hero .hero--nft__bg {
+    position: relative;
+    right: -139px;
+  }
+  #nft .nft--work {
+    padding-top: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #nft .nft--work__btn--bg {
+    left: -25px;
+    bottom: -188px;
+    clip-path: polygon(50% 0%, 61% 35%, 100% 46%, 62% 61%, 50% 100%, 39% 61%, 1% 48%, 39% 35%);
+    width: 34px;
+    height: 34px;
+  }
+  #nft .nft--work__top--bg {
+    width: 70px;
+    height: 70px;
+  }
+  #nft .nft--work__top--bg__star {
+    width: 36px;
+    height: 36px;
+  }
+  #nft .nft--work__top--title h5 {
+    padding-left: 35px;
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h4 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title h3 {
+    font-size: 13px;
+  }
+  #nft .nft--work__top--title p {
+    padding-left: 124px;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  #nft .nft--img__fg {
+    width: 260px;
+    height: 300px;
+  }
+  #nft .nft--img__fg--img {
+    left: -1px;
+    bottom: -38px;
+  }
+  #nft .nft--img__fg--img img {
+    width: 90%;
+  }
+  #nft .nft--right__fgs {
+    top: -18px;
+    right: 18px;
+  }
+  #nft .nft--right p {
+    font-size: 13px;
+  }
+  #cards .cards--blocks__glav {
+    outline: none;
+    border: none;
+    width: 440px;
+    height: 285px;
+  }
+  #cards .cards--blocks__glav--card__title {
+    left: 60px;
+    bottom: 25px;
+  }
+  #cards .cards--blocks__glav--card__title h1 {
+    font-size: 16px;
+  }
+  #cards .cards--blocks__glav--card__title p {
+    font-size: 9px;
+  }
+  #cards .cards--blocks__glav--card__title button {
+    transition: 0.4s ease-in-out;
+    margin-top: 5px;
+    font-size: 11px;
+    width: 50px;
+    height: 23px;
+  }
+  #cards .cards--blocks__glav--card img {
+    width: 80%;
+  }
+  #items .items--figurs__fg2 {
+    right: 39px;
+    bottom: 58px;
+  }
+  #items .items--figurs__fg3 {
+    left: 3px;
+    bottom: 30px;
+  }
+  #items .items--figurs__fg4 {
+    right: 62px;
+  }
+  #items .items--blocks__card {
+    margin: 25px 0;
+    width: 258px;
+    height: 410px;
+    border: 1px solid #A6A6A6;
+    border-radius: 26px;
+    padding-top: 25px;
+    padding-left: 20px;
+  }
+  #items .items--blocks__card .img1 {
+    width: 90%;
+  }
+  #items .items--blocks__card--title .price {
+    padding-left: 118px;
+  }
+  #items .items--blocks__card--title .h4 {
+    padding-left: 140px;
+  }
+  #items .items--blocks__card--title h5 {
+    font-size: 12px;
+  }
+  #items .items--blocks__card--title h4 {
+    padding-left: 72px;
+    font-weight: 500;
+    font-size: 12px;
+  }
+  #items .items--blocks__card--h4 h4 {
+    padding-right: 63px;
+    font-weight: 500;
+    font-size: 16px;
+  }
+  #items .items--blocks__card--h4 h5 {
+    font-size: 16px;
+  }
+  #items .items--blocks__card--btn a {
+    margin-left: 154px;
+    margin-right: 10px;
+    color: white;
+    font-size: 30px;
+  }
+  #bored .bored--title h3 {
+    font-size: 13px;
+  }
+  #bored .bored--title h1 {
+    font-size: 27px;
+  }
+  #bored .bored--title select {
+    font-size: 27px;
+  }
+  #bored .bored--blocks__card h4 {
+    font-size: 16px;
+  }
+  #bored .bored--blocks__card--number {
+    padding-left: 2px;
+  }
+  #bored .bored--blocks__card--number h5 {
+    font-size: 11px;
+  }
+  #bored .bored--blocks__card--number h4 {
+    font-size: 12px;
+  }
+  #bored .bored--blocks__card--numbers {
+    padding-left: 2px;
+  }
+  #bored .bored--blocks__card--numbers h5 {
+    font-size: 11px;
+  }
+  #bored .bored--blocks__card--numbers h4 {
+    font-size: 12px;
+  }
+  #bored .bored--blocks__card--text h2 {
+    font-size: 10px;
+  }
+  #bored .bored--blocks__card--text h3 {
+    font-size: 9px;
+  }
+  #sell .sell--top button {
+    width: 173px;
+    height: 54px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #sell .sell--title {
+    flex-direction: column;
+  }
+  #sell .sell--title__figure {
+    bottom: 48px;
+    width: 135px;
+  }
+  #sell .sell--title__fg {
+    right: 15px;
+    top: 71px;
+  }
+  #sell .sell--title__text {
+    padding-right: 10px;
+  }
+  #sell .sell--title__text--bg h3 {
+    font-size: 13px;
+  }
+  #sell .sell--title__text h2 {
+    font-size: 20px;
+  }
+  #sell .sell--img {
+    padding-top: 20px;
+  }
+  #sell .sell--img__bg {
+    left: -3px;
+    top: 4px;
+  }
+  #sell .sell--img__bg img {
+    width: 80%;
+  }
+  #sell .sell--img__bg--h1 {
+    left: 70px;
+    bottom: 30px;
+  }
+  #sell .sell--img__bg--h1 h1 {
+    font-size: 20px;
+  }
+  #start .start--title h1 {
+    font-size: 21px;
+  }
+  #start .start--title__text h3 {
+    font-size: 16px;
+  }
+  #start .start--set {
+    flex-direction: column;
+  }
+  #start .start--set h3 {
+    font-size: 16px;
+  }
+  #start .start--set p {
+    font-size: 9px;
+    line-height: 19px;
+    color: white;
+    width: 248px;
+  }
+  #start .start--set h1 {
+    padding: 10px 0;
+    font-size: 18px;
+  }
+  #search .search--top__left {
+    transform: rotate(153deg);
+  }
+  #search .search--top__btn button {
+    width: 145px;
+    height: 53px;
+    border: 1px solid #FFFFFF;
+    border-radius: 36px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #search .search--top__right {
+    display: none;
+  }
+  #search .search--top__fg {
+    right: 248px;
+    bottom: 181px;
+    width: 24.21px;
+    height: 23.99px;
+  }
+  #search .search--btn__text h1 {
+    font-size: 40px;
+  }
+  #search .search--btn__text h2 {
+    font-size: 23px;
+  }
+  #search .search--btn__text--fg {
+    bottom: 14px;
+    right: 10px;
+    width: 34.78px;
+    height: 34.37px;
+  }
+  #search .search--btn__title h3 {
+    padding-left: 38px;
+    font-size: 18px;
+  }
+  #search .search--btn__title--text h1 {
+    font-size: 18px;
+  }
+  #search .search--btn__h1 h1 {
+    padding-bottom: 27px;
+    padding-top: 19px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+  }
+  #search .search--btn__h1--input input {
+    font-size: 12px;
+    color: white;
+    width: 138px;
+    height: 37px;
+  }
+  #search .search--btn__h1--input button {
+    width: 47px;
+    padding-top: 8px;
+    height: 39px;
+  }
+  #search .search--btn__h1--input button a {
+    font-size: 26px;
+  }
+  #footer .footer {
+    justify-content: center;
+  }
+  #footer .footer--nav a {
+    margin: 0 1px;
+    padding: 5px 9px;
+    color: white;
+    width: 90px;
+    height: 72px;
+    background: #767676;
+    font-size: 20px;
+  }
+  #footer .footer h5 {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

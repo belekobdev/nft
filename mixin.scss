@@ -1,0 +1,55 @@
+@mixin center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+@mixin flex {
+  display: flex;
+  align-items: center;
+}@mixin wrap {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+@mixin between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@mixin around {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+@mixin evenly {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+@mixin column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
+}
+
+@mixin hover {
+  color:  $nb;
+  transform: scale(1.1);
+}
+
+@mixin centr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+@mixin flex-start {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+

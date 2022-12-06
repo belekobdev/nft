@@ -1,0 +1,2371 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+    #header {
+      .header {
+       &--title {
+         input {
+           margin-left: 570px;
+         }
+       }
+        &--nav {
+          display: none;
+        }
+        &--icon {
+          display: none;
+        }
+      }
+    }
+  #hero {
+    .hero {
+      &--text {
+        h1 {
+          font-size: 90px;
+        }
+      }
+      &--and {
+        h1 {
+          font-size: 90px;
+        }
+      }
+      &--nft {
+        h1 {
+          font-size: 90px;
+        }
+      }
+    }
+  }
+  #nft {
+    .nft {
+      &--work {
+
+      }
+      &--img {
+        &__fg {
+          width: 380px;
+          &--img {
+            left: -69px;
+          }
+        }
+
+      }
+      &--right {
+        right: -15px;
+      }
+    }
+  }
+  #icons {
+    .icons {
+        h1 {
+          padding-right: 43px;
+          font-size: 30px;
+        }
+    }
+  }
+  #sell {
+    .sell {
+    &--img {
+      &__bg {
+        left: 40px;
+      }
+    }
+    }
+  }
+  #search {
+    .search {
+      &--btn {
+      &__title {
+          &--h3 {
+            h3 {
+              padding-left: 13px;
+            }
+          }
+      }
+      }
+    }
+  }
+}
+@media (max-width: 1024px) {
+  #header {
+      .header {
+          &--title {
+              input {
+                margin-left: 424px;
+
+            }
+          }
+      }
+    }
+  #hero {
+    .hero {
+      &--title {
+
+      }
+      &--text {
+    h1 {
+      font-size: 80px;
+    }
+      }
+      &--and {
+        h1 {
+          font-size: 80px;
+        }
+      }
+      &--nft {
+        h1 {
+          font-size: 80px;
+        }
+      }
+    }
+  }
+  #nft{
+    .nft {
+      &--right {padding-top: 100px;
+      }
+        flex-direction: column;
+      &--img {
+        padding: 80px 0;
+      }
+      &--right {
+        &__fgs {
+          top: -18px;
+          right: 18px;
+        }
+
+      }
+    }
+  }
+  #icons {
+     .icons {
+       &--top {
+         h1 {
+           padding-right: 24px;
+           font-size: 26px;
+         }
+      &__title {
+        top: 1px;
+      }
+       }
+       &--btn {
+           img {
+             margin-right: 20px;
+           }
+
+       }
+     }
+  }
+  #cards {
+    .cards {
+        &--title{
+          padding-bottom: 40px;
+        }
+    }
+  }
+  #bored  {
+    .bored {
+    &--title {
+      &__fg {
+        right: 392px;
+      }
+    }
+    }
+  }
+  #sell {
+    .sell {
+      &--img {
+        img {
+          width: 90%;
+        }
+      }
+    }
+  }
+  #search {
+      .search {
+          &--btn {
+            flex-direction: column;
+           &__text {
+             h1 {
+               font-size: 60px;
+             }
+             h2 {
+               font-size: 46px;
+             }
+             &--fg {
+               bottom: 21px;
+               right: 15px;
+               width: 40.78px;
+               height: 40.37px;
+             }
+           }
+          }
+      }
+  }
+  #footer {
+    .footer {
+        &--text {
+          display: none;
+        }
+    }
+  }
+}
+@media (max-width: 992px) {
+  #header {
+    .header {
+        input {
+          margin-left: 400px
+        }
+    }
+  }
+    #start {
+      .start {
+        &--set {
+          h1 {
+            font-size: 26px;
+
+          }
+        }
+      }
+    }
+  #search {
+    .search {
+      &--btn  {
+  &__text {
+    h2 {
+      font-size: 42px;
+
+    }
+  }
+      }
+    }
+  }
+}
+@media (max-width: 768px) {
+  #header {
+    .header {
+      input  {
+        width: 261px;
+        margin-left: 255px;
+      }
+    }
+  }
+  #hero{
+    .hero {
+      &--title {
+        h3 {
+          font-size: 16px;
+        }
+      }
+      &--text {
+        h1 {
+          font-size: 50px;
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--and {
+        h1 {
+          font-size: 50px;
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--nft {
+        h1 {
+          //padding-bottom: 100px;
+          font-size: 50px;
+        }
+        img {
+          width: 30%;
+        }
+      }
+    }
+  }
+  #icons {
+      .icons {
+          h1 {
+            padding-top: 10px;
+            font-size: 20px;
+          }
+        &--top {
+          flex-direction: column;
+        }
+        &--btn {
+          flex-direction: column;
+          img {
+            margin: 20px 0;
+          }
+        }
+      }
+  }
+  #items {
+    .items {
+      &--top {
+        select {
+          width: 209px;
+          height: 52px;
+          border: 1px solid #FFFFFF;
+          border-radius: 14px;
+          background: #15141A;
+          outline: none;
+          font-weight: 200;
+          font-size: 18px;
+
+        }
+      &__btn {
+        width: 153px;
+        height: 53px;
+        &--text {
+          padding-top: 5px;
+          h1 {
+            font-size: 24px;
+          }
+        }
+      }
+      }
+    }
+  }
+  #bored {
+    .bored {
+      &--blocks {
+        justify-content: center;
+      }
+    }
+  }
+  #sell {
+    .sell {
+      &--title {
+        &__text {
+          h2 {
+            font-size: 28px;
+          }
+          h3 {
+            font-size: 20px;
+          }
+        }
+      }
+      &--img {
+        img {
+          width: 100%;
+        }
+        &__bg {
+          left: -15px;
+          top: -108px;
+        }
+      }
+    }
+  }
+  #start {
+    .start {
+      &--title {
+        h1 {
+          font-size: 32px;
+        }
+      }
+      &--set {
+        h1 {
+          font-size: 24px;
+        }
+        p {
+          font-size: 12px;
+          line-height: 19px;
+          color: white;
+          width: 371px;
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      h5 {
+        font-size: 14px;
+      }
+      &--nav {
+        padding-right: 0;
+      }
+    }
+  }
+}
+@media (max-width: 576px) {
+  #header {
+    .header {
+      input  {
+        width: 187px;
+        margin-left: 159px;
+      }
+    }
+  }
+  #hero{
+    .hero {
+      &--title {
+        h3 {
+          font-size:13px
+        }
+      }
+      &--text {
+        h1 {
+          font-size:33px
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--and {
+        h1 {
+          font-size: 33px;
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--nft {
+        h1 {
+          //padding-bottom: 100px;
+          font-size: 33px;
+        }
+        img {
+          width: 30%;
+        }
+        &__bg {
+          right: -162px;
+          top: 68px;
+          width: 192px;
+          height: 56px;
+        }
+      }
+    }
+  }
+  #nft {
+    .nft {
+      &--img {
+  &__fg {
+    width: 426px;
+    &--img {
+      left: -24px;
+    }
+  }
+      }
+      //&--right {
+      //  &__fg3 {
+      //    bottom: 30px;
+      //  }
+      //}
+    }
+  }
+  #icons {
+    .icons {
+        &--top {
+          h1 {
+            padding-top: 13px;
+          }
+        }
+    }
+  }
+  #cards {
+    .cards {
+      &--title {
+        h3 {
+          font-size: 16px;
+        }
+        h1 {
+          font-size: 26px;
+        }
+        h2 {
+          font-size: 25px;
+        }
+      }
+    }
+  }
+  #items {
+    &--figurs {
+      &__fg3 {
+        bottom: 30px;
+      }
+    }
+    .items {
+      &--title {
+        h3 {
+          font-size: 16px;
+
+        }
+        &__hot {
+          right: 34px;
+        }
+      }
+      &--top {
+        select {
+          width: 189px;
+          height: 45px;
+          font-size: 16px;
+        }
+        &__btn {
+          width: 129px;
+          height: 44px;
+          h1 {
+            font-size: 18px;
+          }
+          a {
+            font-size: 14px;
+          }
+        }
+      }
+      &--blocks {
+        justify-content: center;
+      }
+    }
+  }
+  #bored {
+    .bored {
+      &--title {
+        h3 {
+          font-size: 16px;
+        }
+          h1 {
+            font-size: 32px
+          }
+        select {
+          font-size: 34px;
+
+        }
+      }
+    }
+  }
+  #sell {
+    .sell {
+      &--title {
+        &__figure {
+          bottom: 48px;
+          width: 135px;
+        }
+        &__fg {
+          right: 39px;
+          top: 52px;
+        }
+        &__text {
+          padding-right: 90px;
+
+          &--bg {
+            h3 {
+              font-size: 16px;
+            }
+
+          }
+          h2 {
+            font-size: 25px;
+          }
+
+        }
+      }
+      &--img {
+        &__bg {
+          left: -3px;
+          top: -28px;
+          img {
+            width: 80%;
+          }
+          &--h1 {
+            left: 64px;
+            bottom: 63px;
+            h1 {
+              font-size: 30px;
+
+            }
+          }
+        }
+      }
+
+    }
+  }
+  #start {
+    .start {
+      &--title {
+        h1 {
+          font-size: 26px ;
+        }
+        &__text {
+          h3 {
+            font-size: 20px;
+          }
+
+        }
+      }
+      &--set {
+          p {
+            font-size: 10px;
+            line-height: 19px;
+            color: white;
+            width: 195px;
+          }
+        h1 {
+          font-size: 22px;
+        }
+      }
+    }
+  }
+  #search {
+    .search {
+        &--top {
+          &__btn  {
+            &--fg {
+              right: 20px;
+
+            }
+          }
+          &__right {
+            right: 21px;
+          }
+        }
+      &--btn {
+        &__text {
+          h1 {
+            font-size:50px
+          }
+          h2 {
+            font-size:33px;
+          }
+          &--fg {
+            bottom: 14px;
+            right: 10px;
+            width: 34.78px;
+            height: 34.37px;
+          }
+        }
+        &__title {
+          h3 {
+            padding-left: 46px;
+            font-size: 25px;
+          }
+          &--text {
+            h1 {
+              font-size: 26px;
+            }
+          }
+        }
+        &__h1 {
+          h1 {
+            padding-bottom: 27px;
+            padding-top: 19px;
+            font-weight: 700;
+            font-size: 28px;
+            text-align: center;
+          }
+          &--input {
+            input {
+              font-size: 14px;
+              color: white;
+              width: 196px;
+              height: 41px;
+            }
+            button {
+              width: 49px;
+              padding-top: 10px;
+              height: 46px;
+              a {
+                font-size:30px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      justify-content: center;
+      h5 {
+        display: none;
+      }
+
+    }
+  }
+}
+@media (max-width: 451px) {
+  #header {
+    .header {
+      input  {
+        width: 161px;
+        margin-left: 64px;
+        height: 38px;
+
+      }
+      a{
+        right: 32px;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 20px;
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        h3 {
+          font-size:10px;
+        }
+      }
+      &--text {
+        &__star {
+          left: -5px;
+          bottom: 28px;
+        }
+        h1 {
+          font-size: 24px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--and {
+        h1 {
+          font-size: 24px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--nft {
+        h1 {
+          font-size: 24px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+
+    }
+  }
+  #nft {
+    .nft {
+       &--work {
+         &__btn {
+           &--bg {
+             left: -43px;
+             bottom: -152px;
+           }
+         }
+        &__top {
+          &--bg {
+            width: 70px;
+            height: 70px;
+            &__star {
+              width: 36px;
+              height: 36px;
+            }
+          }
+          &--title {
+            h5 {
+              padding-left: 35px;
+              font-size: 13px;
+
+            }
+            h4 {
+              font-size: 13px;
+
+            }
+            h3 {
+              font-size: 13px;
+
+            }
+            p {
+              padding-left: 124px;
+              font-weight: 400;
+              font-size: 13px;
+            }
+          }
+        }
+       }
+      &--img {
+        &__fg {
+          width: 262px;
+          height: 300px;
+          &--img {
+            img {
+              width: 90%;
+            }
+          }
+        }
+      }
+    }
+  }
+  #cards {
+    .cards {
+      &--blocks {
+        &__glav {
+          outline: none;
+          border: none;
+          width: 440px;
+          height: 415px;
+          //display: none;
+          //display: flex;
+          //justify-content: center;
+          //width: 90%;
+          &--card {
+            &__title {
+              left: 82px;
+              bottom: 35px;
+              h1 {
+                font-size: 25px;
+              }
+              p {
+                font-size: 13px;
+              }
+              button {
+                margin-top: 20px;
+                font-size: 13px;
+                width: 62px;
+                height: 33px;
+              }
+            }
+            img {
+              width: 80%;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #items {
+    h1 {
+    font-size: 26px;
+  }
+    .items {
+      &--figurs {
+        &__fg3 {
+          left: 33px;
+          bottom: 27px;
+        }
+      }
+      &--title {
+        h3 {
+          font-size:14px;
+        }
+
+      }
+      &--top {
+        select {
+          width: 161px;
+          height: 39px;
+          font-size: 13px;
+        }
+        &__btn {
+          width: 105px;
+          height: 36px;
+          h1 {
+            font-size: 15px;
+
+          }
+          a {
+            font-size: 11px;
+
+          }
+        }
+      }
+      //&--blocks {
+      //  &__card {
+      //
+      //  }
+      //}
+    }
+  }
+  #bored {
+    .bored {
+      &--blocks {
+        &__card {
+          &--text {
+            h2 {
+              font-size: 14px;
+
+            }
+            h3 {
+              font-size: 13px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #sell {
+    .sell {
+      &--title {
+        &__figure {
+          bottom: 48px;
+          width: 135px;
+        }
+        &__fg {
+          right: 15px;
+          top: 71px;
+
+        }
+        &__text {
+          padding-right: 50px;
+
+          &--bg {
+            h3 {
+              font-size: 13px;
+            }
+
+          }
+          h2 {
+            font-size: 22px;
+          }
+
+        }
+      }
+      &--img  {
+        &__bg {
+          left: -3px;
+          top: -1px;
+          img {
+            width: 80%;
+          }
+          &--h1 {
+            left: 64px;
+            bottom: 63px;
+            h1 {
+              font-size: 24px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #start {
+    .start {
+      &--title {
+        h1 {
+          font-size: 21px ;
+        }
+        &__text {
+          h3 {
+            font-size: 16px;
+          }
+
+        }
+      }
+      &--set {
+        flex-direction: column;
+        h3 {
+          font-size: 16px;
+
+        }
+        p {
+          font-size: 10px;
+          line-height: 19px;
+          color: white;
+          width: 389px;
+
+        }
+        h1 {
+          padding: 10px 0;
+
+          font-size: 18px;
+        }
+      }
+    }
+  }
+  #search {
+    .search {
+      &--top {
+        &__btn  {
+          button {
+            width: 145px;
+            height: 53px;
+            border: 1px solid #FFFFFF;
+            border-radius: 36px;
+            font-weight: 400;
+            font-size: 18px;
+          }
+          &--fg {
+            right: 20px;
+
+          }
+        }
+        &__right {
+          right: 21px;
+        }
+      }
+      &--btn  {
+        &__text {
+          h1 {
+            font-size:50px
+          }
+          h2 {
+            font-size:33px;
+          }
+          &--fg {
+            bottom: 14px;
+            right: 10px;
+            width: 34.78px;
+            height: 34.37px;
+          }
+        }
+        &__title {
+          h3 {
+            padding-left: 46px;
+            font-size: 25px;
+          }
+          &--text {
+            h1 {
+              font-size: 26px;
+            }
+          }
+        }
+        &__h1 {
+          h1 {
+            padding-bottom: 27px;
+            padding-top: 19px;
+            font-weight: 700;
+            font-size: 28px;
+            text-align: center;
+          }
+          &--input {
+            input {
+              font-size: 14px;
+              color: white;
+              width: 196px;
+              height: 41px;
+            }
+            button {
+              width: 49px;
+              padding-top: 10px;
+              height: 46px;
+              a {
+                font-size:30px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--nav {
+        a {
+          margin: 0 8px;
+          padding: 5px 9px;
+          color: white;
+          width: 90px;
+          height: 72px;
+          background: #767676;
+          font-size: 24px;
+        }
+      }
+      justify-content: center;
+      h5 {
+        display: none;
+      }
+
+    }
+  }
+
+
+}
+@media (max-width: 400px) {
+  #header {
+    .header {
+      input  {
+        width: 151px;
+        margin-left:28px;
+        height: 38px;
+
+      }
+      a{
+        right: 32px;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 20px;
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        h3 {
+          font-size:10px;
+        }
+      }
+      &--text {
+        &__stars {
+          bottom: 22px;
+          left: -13px;
+        }
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--and {
+        &__crug {
+          margin-right: 26px;
+          margin-top: 85px;
+
+        }
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--nft {
+        &__bg {
+          width: 127px;
+          top: -56px;
+          right: -151px;
+        }
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+
+    }
+  }
+  #nft {
+    .nft {
+      &--work {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        &__top {
+          &--bg {
+            width: 70px;
+            height: 70px;
+            &__star {
+              width: 36px;
+              height: 36px;
+            }
+          }
+          &--title {
+            h5 {
+              padding-left: 35px;
+              font-size: 13px;
+
+            }
+            h4 {
+              font-size: 13px;
+
+            }
+            h3 {
+              font-size: 13px;
+
+            }
+            p {
+              padding-left: 124px;
+              font-weight: 400;
+              font-size: 13px;
+            }
+          }
+        }
+      }
+      &--img {
+        &__fg {
+          width: 262px;
+          height: 300px;
+          &--img {
+            img {
+            width: 90%;
+            }
+          }
+        }
+      }
+    }
+  }
+  #cards {
+    .cards {
+      &--blocks {
+        &__glav {
+          outline: none;
+          border: none;
+          width: 440px;
+          height: 415px;
+          //display: none;
+          //display: flex;
+          //justify-content: center;
+          //width: 90%;
+          &--card {
+            &__title {
+              left: 75px;
+              bottom: 35px;
+              h1 {
+                font-size: 22px;
+              }
+              p {
+                font-size: 11px;
+              }
+              button {
+                margin-top: 20px;
+                font-size: 12px;
+                width: 55px;
+                height: 28px;
+              }
+            }
+            img {
+              width: 80%;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #items {
+    h1 {
+      font-size: 22px;
+    }
+    .items {
+      &--figurs {
+      &__fg3 {
+        left: 16px;
+      }
+      }
+      &--title {
+        padding-top: 40px;
+        h3 {
+          font-size:12px;
+        }
+      }
+      &--top {
+        select {
+          width: 145px;
+          height: 38px;
+          font-size: 11px;
+        }
+        &__btn {
+          width: 105px;
+          height: 36px;
+          h1 {
+            font-size: 15px;
+
+          }
+          a {
+            font-size: 11px;
+
+          }
+        }
+      }
+      //&--blocks {
+      //  &__card {
+      //
+      //  }
+      //}
+    }
+  }
+  #bored  {
+    .bored {
+      &--blocks {
+        &__card {
+          &--text {
+            h2 {
+              font-size: 12px;
+
+            }
+            h3 {
+              font-size: 11px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #sell {
+    .sell {
+      &--top {
+        button {
+          width: 173px;
+          height: 54px;
+          border: 1px solid #FFFFFF;
+          border-radius: 36px;
+          font-weight: 400;
+          font-size: 18px;
+
+        }
+      }
+      &--title {
+        flex-direction: column;
+        //padding-bottom: 20px;
+        &__figure {
+          bottom: 48px;
+          width: 135px;
+        }
+        &__fg {
+          right: 15px;
+          top: 71px;
+
+        }
+        &__text {
+          padding-right: 10px;
+
+          &--bg {
+            h3 {
+              font-size: 13px;
+            }
+
+          }
+          h2 {
+            font-size: 20px;
+          }
+
+        }
+      }
+      &--img  {
+        padding-top: 20px;
+        &__bg {
+          left: -3px;
+          top: -1px;
+          img {
+            width: 80%;
+          }
+          &--h1 {
+            left: 70px;
+            bottom: 30px;
+            h1 {
+              font-size: 20px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #start {
+    .start {
+      &--title {
+        h1 {
+          font-size: 21px ;
+        }
+        &__text {
+          h3 {
+            font-size: 16px;
+          }
+
+        }
+      }
+      &--set {
+        flex-direction: column;
+        h3 {
+          font-size: 16px;
+
+        }
+        p {
+          font-size: 10px;
+          line-height: 19px;
+          color: white;
+          width: 320px;
+
+        }
+        h1 {
+          padding: 10px 0;
+
+          font-size: 18px;
+        }
+      }
+    }
+  }
+  #search {
+    .search {
+      &--top {
+        &__btn  {
+          button {
+            width: 145px;
+            height: 53px;
+            border: 1px solid #FFFFFF;
+            border-radius: 36px;
+            font-weight: 400;
+            font-size: 18px;
+          }
+          &--fg {
+            right: 20px;
+
+          }
+        }
+        &__right {
+          right: 21px;
+        }
+      }
+      &--btn  {
+        &__text {
+          h1 {
+            font-size:50px
+          }
+          h2 {
+            font-size:33px;
+          }
+          &--fg {
+            bottom: 14px;
+            right: 10px;
+            width: 34.78px;
+            height: 34.37px;
+          }
+        }
+        &__title {
+          h3 {
+            padding-left: 41px;
+            font-size: 22px;
+          }
+          &--text {
+            h1 {
+              font-size: 23px;
+            }
+          }
+        }
+        &__h1 {
+          h1 {
+            padding-bottom: 27px;
+            padding-top: 19px;
+            font-weight: 700;
+            font-size: 20px;
+            text-align: center;
+          }
+          &--input {
+            input {
+              font-size: 12px;
+              color: white;
+              width: 138px;
+              height: 37px;
+            }
+            button {
+              width: 47px;
+              padding-top: 8px;
+              height: 39px;
+              a {
+                font-size:26px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--nav {
+        a {
+          margin: 0 8px;
+          padding: 5px 9px;
+          color: white;
+          width: 90px;
+          height: 72px;
+          background: #767676;
+          font-size: 24px;
+        }
+      }
+      justify-content: center;
+      h5 {
+        display: none;
+      }
+
+    }
+  }
+}
+@media (max-width: 376px) {
+  #header {
+    .header {
+      h1 {
+        font-size: 28px;
+      }
+    h2 {
+      font-size: 20px;
+    }
+      input {
+        width: 118px;
+        margin-left: 29px;
+        font-size: 13px;
+        height: 39px;
+      }
+
+      a {
+        right: 32px;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 20px;
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        h3 {
+          font-size:9px;
+        }
+      }
+      &--text {
+        h1 {
+          font-size: 18px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--and {
+        &__crug {
+          margin-right: 26px;
+          margin-top: 85px;
+
+        }
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--nft {
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+        &__bg {
+          width: 124px;
+          height: 43px;
+        }
+      }
+
+    }
+  }
+  #nft {
+    .nft {
+      &--work {
+        &__btn {
+          &--bg {
+            left: -25px;
+            bottom: -188px;
+            clip-path: polygon(50% 0%, 61% 35%, 100% 46%, 62% 61%, 50% 100%, 39% 61%, 1% 48%, 39% 35%);
+            width: 34px;
+            height: 34px;
+          }
+        }
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        &__top {
+          &--bg {
+            width: 70px;
+            height: 70px;
+            &__star {
+              width: 36px;
+              height: 36px;
+            }
+          }
+          &--title {
+            h5 {
+              padding-left: 35px;
+              font-size: 13px;
+
+            }
+            h4 {
+              font-size: 13px;
+
+            }
+            h3 {
+              font-size: 13px;
+
+            }
+            p {
+              padding-left: 124px;
+              font-weight: 400;
+              font-size: 13px;
+            }
+          }
+        }
+      }
+      &--img {
+        &__fg {
+          width: 262px;
+          height: 300px;
+          &--img {
+            img {
+              width: 90%;
+            }
+          }
+        }
+      }
+    }
+  }
+  #cards {
+    .cards {
+      &--blocks {
+        &__glav {
+          outline: none;
+          border: none;
+          width: 440px;
+          height: 415px;
+          //display: none;
+          //display: flex;
+          //justify-content: center;
+          //width: 90%;
+          &--card {
+            &__title {
+              left: 65px;
+              bottom: 35px;
+              h1 {
+                font-size: 22px;
+              }
+              p {
+                font-size: 11px;
+              }
+              button {
+                margin-top: 20px;
+                font-size: 12px;
+                width: 55px;
+                height: 28px;
+              }
+            }
+            img {
+              width: 80%;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #bored {
+    .bored {
+      &--title {
+        h3 {
+          font-size: 13px;
+        }
+        h1 {
+          font-size: 27px
+        }
+        select {
+          font-size: 27px;
+
+        }
+      }
+      &--blocks {
+        &__card {
+          &--number {
+            padding-left: 24px;
+          }
+        }
+      }
+
+    }
+  }
+  #sell {
+    .sell {
+      &--top {
+        button {
+          width: 173px;
+          height: 54px;
+          border: 1px solid #FFFFFF;
+          border-radius: 36px;
+          font-weight: 400;
+          font-size: 18px;
+
+        }
+      }
+      &--title {
+        flex-direction: column;
+        //padding-bottom: 20px;
+        &__figure {
+          bottom: 48px;
+          width: 135px;
+        }
+        &__fg {
+          right: 15px;
+          top: 71px;
+
+        }
+        &__text {
+          padding-right: 10px;
+
+          &--bg {
+            h3 {
+              font-size: 13px;
+            }
+
+          }
+          h2 {
+            font-size: 20px;
+          }
+
+        }
+      }
+      &--img  {
+        padding-top: 20px;
+        &__bg {
+          left: -3px;
+          top: 4px;
+          img {
+            width: 80%;
+          }
+          &--h1 {
+            left: 70px;
+            bottom: 30px;
+            h1 {
+              font-size: 20px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #start {
+    .start {
+      &--title {
+        h1 {
+          font-size: 21px ;
+        }
+        &__text {
+          h3 {
+            font-size: 16px;
+          }
+
+        }
+      }
+      &--set {
+        flex-direction: column;
+        h3 {
+          font-size: 16px;
+
+        }
+        p {
+          font-size: 9px;
+          line-height: 19px;
+          color: white;
+          width: 334px;
+
+        }
+        h1 {
+          padding: 10px 0;
+
+          font-size: 18px;
+        }
+      }
+    }
+  }
+  #search {
+    .search {
+      &--top {
+        &__btn  {
+          button {
+            width: 145px;
+            height: 53px;
+            border: 1px solid #FFFFFF;
+            border-radius: 36px;
+            font-weight: 400;
+            font-size: 18px;
+          }
+          &--fg {
+            right: 20px;
+
+          }
+        }
+        &__right {
+          right: 25px;
+          width: 120px;
+        }
+      }
+      &--btn  {
+        &__text {
+          h1 {
+            font-size:50px
+          }
+          h2 {
+            font-size:33px;
+          }
+          &--fg {
+            bottom: 14px;
+            right: 10px;
+            width: 34.78px;
+            height: 34.37px;
+          }
+        }
+        &__title {
+          h3 {
+            padding-left: 41px;
+            font-size: 20px;
+          }
+          &--text {
+            h1 {
+              font-size: 23px;
+            }
+          }
+        }
+        &__h1 {
+          h1 {
+            padding-bottom: 27px;
+            padding-top: 19px;
+            font-weight: 700;
+            font-size: 20px;
+            text-align: center;
+          }
+          &--input {
+            input {
+              font-size: 12px;
+              color: white;
+              width: 138px;
+              height: 37px;
+            }
+            button {
+              width: 47px;
+              padding-top: 8px;
+              height: 39px;
+              a {
+                font-size:26px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--nav {
+        a {
+          margin: 0 8px;
+          padding: 5px 9px;
+          color: white;
+          width: 90px;
+          height: 72px;
+          background: #767676;
+          font-size: 24px;
+        }
+      }
+      justify-content: center;
+      h5 {
+        display: none;
+      }
+
+    }
+  }
+
+
+
+}
+@media (max-width: 320px) {
+  #header {
+    .header {
+      h1 {
+        font-size: 28px;
+      }
+      h2 {
+        font-size: 20px;
+      }
+      input {
+        width: 100px;
+        margin-left: 22px;
+        font-size: 11px;
+        height: 39px;
+      }
+
+      a {
+        right: 32px;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 20px;
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        h3 {
+          font-size:9px;
+        }
+      }
+      &--text {
+        &__star {
+          left: 5px;
+          bottom: 20px;
+          clip-path: polygon(50% 0%, 61% 35%, 100% 46%, 62% 61%, 50% 100%, 39% 61%, 1% 48%, 39% 35%);
+          width: 25px;
+          height: 25px;
+        }
+        h1 {
+          font-size: 18px;
+
+        }
+        img {
+          width: 30%;
+        }
+        &__stars  {
+          bottom: 18px;
+          left: 4px;
+        }
+      }
+      &--and {
+        &__crug {
+          margin-right: 0;
+          margin-top: 85px;
+
+        }
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+      }
+      &--nft {
+        h1 {
+          font-size: 20px;
+
+        }
+        img {
+          width: 30%;
+        }
+        &__bg {
+          position: relative;
+        right: -139px;
+        }
+      }
+
+    }
+  }
+  #nft {
+    .nft {
+      &--work {
+        padding-top: 150px;
+        &__btn {
+          &--bg {
+            left: -25px;
+            bottom: -188px;
+            clip-path: polygon(50% 0%, 61% 35%, 100% 46%, 62% 61%, 50% 100%, 39% 61%, 1% 48%, 39% 35%);
+            width: 34px;
+            height: 34px;
+          }
+        }
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        &__top {
+          &--bg {
+            width: 70px;
+            height: 70px;
+            &__star {
+              width: 36px;
+              height: 36px;
+            }
+          }
+          &--title {
+            h5 {
+              padding-left: 35px;
+              font-size: 13px;
+
+            }
+            h4 {
+              font-size: 13px;
+
+            }
+            h3 {
+              font-size: 13px;
+
+            }
+            p {
+              padding-left: 124px;
+              font-weight: 400;
+              font-size: 13px;
+            }
+          }
+        }
+      }
+      &--img {
+        &__fg {
+          width: 260px;
+          height: 300px;
+          &--img {
+            left: -1px;
+            bottom: -38px;
+            img {
+              width: 90%;
+            }
+          }
+        }
+      }
+      &--right {
+        &__fgs {
+          top: -18px;
+          right: 18px;
+        }
+        p {
+          font-size: 13px;
+        }
+      }
+    }
+  }
+  #cards {
+    .cards {
+      &--blocks {
+        &__glav {
+          outline: none;
+          border: none;
+          width: 440px;
+          height: 285px;
+          &--card {
+            &__title {
+              left: 60px;
+              bottom: 25px;
+              //h3 {
+              //  font-size:13px;
+              //}
+              h1 {
+                font-size: 16px;
+              }
+              p {
+                font-size: 9px;
+              }
+              button {
+                transition: .4s ease-in-out;
+                margin-top: 5px;
+                font-size: 11px;
+                width: 50px;
+                height: 23px;
+              }
+            }
+            img {
+              width: 80%;
+            }
+          }
+        }
+      }
+    }
+  }
+  #items {
+    .items {
+      &--figurs {
+        &__fg2 {
+          right: 39px;
+          bottom: 58px;
+        }
+        &__fg3 {
+          left: 3px;
+          bottom: 30px;
+        }
+        &__fg4 {
+          right: 62px;
+        }
+      }
+      &--blocks {
+        &__card {
+          margin: 25px 0;
+          width: 258px;
+          height: 410px;
+          border: 1px solid #A6A6A6;
+          border-radius: 26px;
+          padding-top: 25px;
+          padding-left: 20px;
+          .img1 {
+            width: 90%;
+          }
+          &--title {
+            .price {
+              padding-left: 118px;
+            }
+            .h4 {
+              padding-left: 140px;
+            }
+            h5 {
+              font-size: 12px;
+            }
+            h4 {
+              padding-left: 72px;
+              font-weight: 500;
+              font-size: 12px;
+            }
+          }
+          &--h4 {
+
+            h4 {
+              padding-right: 63px;
+              font-weight: 500;
+              font-size: 16px;
+            }
+            h5 {
+              font-size: 16px;
+            }
+          }
+          &--btn {
+            a {
+              margin-left: 154px;
+              margin-right: 10px;
+              color: white;
+              font-size: 30px;
+            }
+          }
+
+        }
+      }
+    }
+  }
+  #bored {
+    .bored {
+      &--title {
+        h3 {
+          font-size: 13px;
+        }
+        h1 {
+          font-size: 27px
+        }
+        select {
+          font-size: 27px;
+
+        }
+      }
+      &--blocks {
+        &__card {
+          h4 {
+            font-size: 16px;
+
+          }
+          &--number {
+            h5 {
+              font-size: 11px;
+            }
+            h4 {
+font-size: 12px
+            }
+            padding-left: 2px;
+          }
+          &--numbers {
+            h5 {
+              font-size: 11px;
+            }
+            h4 {
+font-size: 12px
+            }
+            padding-left: 2px;
+          }
+          &--text {
+            h2 {
+              font-size: 10px;
+            }
+            h3 {
+              font-size: 9px
+            }
+          }
+        }
+      }
+
+    }
+  }
+  #sell {
+    .sell {
+      &--top {
+        button {
+          width: 173px;
+          height: 54px;
+          border: 1px solid #FFFFFF;
+          border-radius: 36px;
+          font-weight: 400;
+          font-size: 18px;
+
+        }
+      }
+      &--title {
+        flex-direction: column;
+        //padding-bottom: 20px;
+        &__figure {
+          bottom: 48px;
+          width: 135px;
+        }
+        &__fg {
+          right: 15px;
+          top: 71px;
+
+        }
+        &__text {
+          padding-right: 10px;
+
+          &--bg {
+            h3 {
+              font-size: 13px;
+            }
+
+          }
+          h2 {
+            font-size: 20px;
+          }
+
+        }
+      }
+      &--img  {
+        padding-top: 20px;
+        &__bg {
+          left: -3px;
+          top: 4px;
+          img {
+            width: 80%;
+          }
+          &--h1 {
+            left: 70px;
+            bottom: 30px;
+            h1 {
+              font-size: 20px;
+
+            }
+          }
+        }
+      }
+    }
+  }
+  #start {
+    .start {
+      &--title {
+        h1 {
+          font-size: 21px ;
+        }
+        &__text {
+          h3 {
+            font-size: 16px;
+          }
+
+        }
+      }
+      &--set {
+        flex-direction: column;
+        h3 {
+          font-size: 16px;
+
+        }
+        p {
+          font-size: 9px;
+          line-height: 19px;
+          color: white;
+          width: 248px;
+
+        }
+        h1 {
+          padding: 10px 0;
+
+          font-size: 18px;
+        }
+      }
+    }
+  }
+  #search {
+    .search {
+      &--top {
+        &__left {
+          transform: rotate(153deg);
+        }
+        &__btn  {
+          button {
+            width: 145px;
+            height: 53px;
+            border: 1px solid #FFFFFF;
+            border-radius: 36px;
+            font-weight: 400;
+            font-size: 18px;
+          }
+        }
+        &__right {
+          display: none;
+        }
+        &__fg {
+          right: 248px;
+          bottom: 181px;
+          width: 24.21px;
+          height: 23.99px;
+
+        }
+
+      }
+      &--btn  {
+        &__text {
+          h1 {
+            font-size:40px
+          }
+          h2 {
+            font-size:23px;
+          }
+          &--fg {
+            bottom: 14px;
+            right: 10px;
+            width: 34.78px;
+            height: 34.37px;
+          }
+        }
+        &__title {
+          h3 {
+            padding-left: 38px;
+            font-size: 18px;
+          }
+          &--text {
+            h1 {
+              font-size: 18px;
+            }
+          }
+        }
+        &__h1 {
+          h1 {
+            padding-bottom: 27px;
+            padding-top: 19px;
+            font-weight: 700;
+            font-size: 20px;
+            text-align: center;
+          }
+          &--input {
+            input {
+              font-size: 12px;
+              color: white;
+              width: 138px;
+              height: 37px;
+            }
+            button {
+              width: 47px;
+              padding-top: 8px;
+              height: 39px;
+              a {
+                font-size:26px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--nav {
+        a {
+          margin: 0 1px;
+          padding: 5px 9px;
+          color: white;
+          width: 90px;
+          height: 72px;
+          background: #767676;
+          font-size: 20px;
+        }
+      }
+      justify-content: center;
+      h5 {
+        display: none;
+      }
+
+    }
+  }
+}
+
+
+
+
